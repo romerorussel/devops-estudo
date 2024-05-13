@@ -1,1 +1,1 @@
-{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"D:/Projetos/devops/ansible-lab/control-node","disabled":false,"rsync__exclude":".git/","__vagrantfile":true,"exclude":".git/","owner":"vagrant","group":"vagrant"}}}
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"D:/Projetos/devops-estudo/ansible-lab/control-node","disabled":false,"rsync__exclude":".git/","__vagrantfile":true,"exclude":".git/","owner":"vagrant","group":"vagrant"}}}
